@@ -1,0 +1,8 @@
+
+Msquid:S1068"*Remove this unused "logger" private field.(ø¢Á®øÿÿÿÿ8èÏ›¾Í-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Úä³8ÊØÈ¾Í-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åãª58Œ€›¾Í-
+Lsquid:S1481!")Remove this unused "name" local variable.(ä‹Å üÿÿÿÿ8”½•¾Í-
+[squid:S1854!"8Remove this useless assignment to local variable "name".(ä‹Å üÿÿÿÿ8”½•¾Í-
