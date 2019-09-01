@@ -44,7 +44,7 @@ public class RunLevel {
     }
 
 
-    private static boolean isSelectedForNextLevel(Character[] wordToPrint) {
+    private boolean isSelectedForNextLevel(Character[] wordToPrint) {
         int count = 0;
         for (char c : wordToPrint) {
             if (c == '*') {

@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ce82050-06b8-46c9-b21b-eff3470950df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/datasource/CSVDatasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/datasource/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RunLevelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CSVDatasourceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/games/GameFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/games/GameFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/games/GameFactory$gameType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/games/GameFactory$gameType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/games/GameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/games/GameFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/games/GuessTheWordGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/games/GuessTheWordGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/games/SuperGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/games/SuperGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/games/gameimpl/GuessTheWordGameImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/games/gameimpl/GuessTheWordGameImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gameutils/guesstheword/RunLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gameutils/guesstheword/RunLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/GuessTheWordLevels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/GuessTheWordLevels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/LevelFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/LevelFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/LevelFactory$GuessTheWordlevels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/LevelFactory$GuessTheWordlevels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/LevelFactory$gameType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/LevelFactory$gameType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/LevelFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/LevelFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/SuperLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/SuperLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelFive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelFour.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelThree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/levels/levelimpl/GuessTheWordlevelTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RunLevelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RunLevelTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,31 +38,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/datasource/DataSource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/datasource/CSVDatasource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="450">
+              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#251#259#0" expanded="true" />
@@ -97,10 +52,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CSVDatasourceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/WordTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="330">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,13 +81,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="157">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,11 +130,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/RunLevelTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="426">
+              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,13 +182,14 @@
         <option value="$PROJECT_DIR$/src/main/java/UI/UI.java" />
         <option value="$PROJECT_DIR$/src/main/java/UI/CommandLineInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java" />
         <option value="$PROJECT_DIR$/src/main/java/datasource/datasource.java" />
         <option value="$PROJECT_DIR$/src/main/java/datasource/CSVDatasource.java" />
         <option value="$PROJECT_DIR$/src/main/java/datasource/DataSource.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/WordTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CSVDatasourceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java" />
         <option value="$PROJECT_DIR$/src/test/java/RunLevelTest.java" />
       </list>
     </option>
@@ -382,10 +363,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WordTest">
+  <component name="RunManager" selected="JUnit.RunLevelTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="assignmentOODP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CSVDatasourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignmentOODP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CSVDatasourceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunLevelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignmentOODP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunLevelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunLevelTest.should_returnTrueWhenAnyCharactorNotEqualStar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="assignmentOODP" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunLevelTest" />
+      <option name="METHOD_NAME" value="should_returnTrueWhenAnyCharactorNotEqualStar" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -401,6 +410,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RunLevelTest" />
+        <item itemvalue="JUnit.RunLevelTest.should_returnTrueWhenAnyCharactorNotEqualStar" />
+        <item itemvalue="JUnit.CSVDatasourceTest" />
         <item itemvalue="JUnit.WordTest" />
         <item itemvalue="Application.Main" />
       </list>
@@ -419,7 +431,7 @@
       <workItem from="1566981066727" duration="6792000" />
       <workItem from="1566988991721" duration="21681000" />
       <workItem from="1567321210995" duration="889000" />
-      <workItem from="1567336686821" duration="13496000" />
+      <workItem from="1567336686821" duration="17115000" />
     </task>
     <task id="LOCAL-00001" summary="impliment word class">
       <created>1567341923207</created>
@@ -435,22 +447,50 @@
       <option name="project" value="LOCAL" />
       <updated>1567343744291</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="datasorce implimented">
+      <created>1567354520375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567354520375</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WordTest - 2019.09.01 at 21h 20m 15s.xml">
-      <configuration name="WordTest" configurationId="JUnit" />
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 27m 24s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordTest - 2019.09.01 at 21h 21m 09s.xml">
-      <configuration name="WordTest" configurationId="JUnit" />
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 30m 02s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="WordTest - 2019.09.01 at 21h 21m 47s.xml">
-      <configuration name="WordTest" configurationId="JUnit" />
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 33m 09s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 33m 41s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLevelTest_should_returnTrueWhenAnyCharactorNotEqualStar - 2019.09.01 at 22h 33m 55s.xml">
+      <configuration name="RunLevelTest.should_returnTrueWhenAnyCharactorNotEqualStar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 42m 05s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 42m 11s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 46m 09s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 46m 33s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunLevelTest - 2019.09.01 at 22h 48m 58s.xml">
+      <configuration name="RunLevelTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42858000" />
+    <option name="totallyTimeSpent" value="46477000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,7 +505,7 @@
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25815368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25815368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -474,8 +514,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960325" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32925585" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2293578" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32925585" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32517838" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960325" />
@@ -503,7 +543,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="impliment word class" />
     <MESSAGE value="Impliment ui" />
-    <option name="LAST_COMMIT_MESSAGE" value="Impliment ui" />
+    <MESSAGE value="datasorce implimented" />
+    <option name="LAST_COMMIT_MESSAGE" value="datasorce implimented" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,7 +552,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/games/gameimpl/GameOverException.java</url>
           <line>4</line>
-          <properties class="games.gameimpl.GameOverException">
+          <properties class="games.gameimpl.GameOverException" method="&lt;init&gt;">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="6" />
@@ -522,49 +563,79 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>fullWord.indexOf(upperCaseChar);</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = new Character[3];
+ characters[0]='f';
+ characters[2]='g';
+ characters[1]='h';
+ 
+ boolean output = (boolean) method.invoke(runLevel,characters);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>word.get()</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+ boolean output = (boolean) method.invoke(runLevel,characters);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>word.get();</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Arrays.class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+ boolean output = (boolean) method.invoke(runLevel,&quot;sdfsd0&quot;,&quot;dsfsdf&quot;);</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>java.util.Arrays</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+ boolean output = (boolean) method.invoke(runLevel,&quot;sdfsd0&quot;,&quot;dsfsdf&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>characters[0]</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+ boolean output = (boolean) method.invoke(runLevel,&quot;sdfsd&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>String text = String.valueOf(characters[0]);
-System.out.println(text);</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+ boolean output = (boolean) method.invoke(runLevel);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>String text = String.valueOf(characters);
-System.out.println(text);</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+ boolean output = (boolean) method.invoke(runLevel, characters,&quot;gsdf&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>String text = String.valueOf(characters);</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+method;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>guessTheWordLevels.getWord()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>System.out.println(characters[0])</expression-string>
+        <expression-string>method = RunLevel.class.getDeclaredMethod(&quot;isSelectedForNextLevel&quot;, Character[].class);
+ method.setAccessible(true);
+ Character[] characters = {'f','f','*','g'};
+ boolean output = (boolean) method.invoke(runLevel, characters);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -691,17 +762,6 @@ System.out.println(text);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-          <folding>
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -732,18 +792,6 @@ System.out.println(text);</expression-string>
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/datasource/CSVDatasource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#251#259#0" expanded="true" />
-            <element signature="e#713#721#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -784,16 +832,6 @@ System.out.println(text);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/WordTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/UI/UI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -814,17 +852,71 @@ System.out.println(text);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RunLevelTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/datasource/CSVDatasource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="450">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#251#259#0" expanded="true" />
+            <element signature="e#713#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/org/hamcrest/core/Is.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+          <folding>
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CSVDatasourceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="157">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunLevelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
