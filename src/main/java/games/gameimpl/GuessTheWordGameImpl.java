@@ -25,7 +25,9 @@ public class GuessTheWordGameImpl implements GuessTheWordGame {
                 guessTheWordLevels = (GuessTheWordLevels) LevelFactory.getInstance().getLevel(LevelFactory.gameType.GUESSTHEWORD, LevelFactory.GuessTheWordlevels.values()[i]);
                 guessTheWordLevels.setWord(words[i].toUpperCase());
 
-                int run = RunLevel.run(guessTheWordLevels);
+                RunLevel runLevel = new RunLevel();
+                int run = runLevel.run(guessTheWordLevels);
+
                 if (run == 0) {
                     isWin = false;
                     break;
@@ -34,6 +36,9 @@ public class GuessTheWordGameImpl implements GuessTheWordGame {
 
             if (isWin) {
                 System.out.println("He wins!");
+            }else
+            {
+                System.out.println("He lost!");
             }
 
         } catch (ArrayIndexOutOfBoundsException e) {

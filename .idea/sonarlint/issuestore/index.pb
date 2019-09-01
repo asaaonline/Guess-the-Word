@@ -15,7 +15,5 @@ V
 ,src/main/java/levels/GuessTheWordLevels.java,0/d/0daa81cc75a6e29d871ef1e996cb9b48b15a51e8
 G
 src/main/java/Main.java,e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
-j
-:src/main/java/levels/levelimpl/GuessTheWordLevelsImpl.java,2/a/2a7bb9025c0956947738d7949db5ac8548e5f9c1
 f
 6src/main/java/games/gameimpl/GuessTheWordGameImpl.java,e/b/ebe22c11d49de3248dca0997ca6c39cc8d5fbc18
