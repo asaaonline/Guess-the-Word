@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ce82050-06b8-46c9-b21b-eff3470950df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/games/gameimpl/GameOverException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a7bb9025c0956947738d7949db5ac8548e5f9c1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/CommandLineInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UI/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/games/gameimpl/GuessTheWordGameImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/games/gameimpl/GuessTheWordGameImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gameutils/guesstheword/RunLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gameutils/guesstheword/RunLevel.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+            <state relative-caret-position="489">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="600">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
               <folding>
                 <element signature="e#443#444#0" expanded="true" />
                 <element signature="e#477#478#0" expanded="true" />
@@ -82,11 +79,49 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="93" selection-start-line="93" selection-end-line="105" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/UI/UI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/UI/CommandLineInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="63" lean-forward="true" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,11 +163,14 @@
         <option value="$PROJECT_DIR$/src/main/java/gameUtils/guesstheword/RunLevel.java" />
         <option value="$PROJECT_DIR$/src/main/java/levels/levelimpl/GuessTheWordlevelOne.java" />
         <option value="$PROJECT_DIR$/src/main/java/levels/levelimpl/GuessTheWordlevelFive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/games/gameimpl/GameOverException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UI/CommandLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UI/UI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UI/CommandLineInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java" />
       </list>
     </option>
   </component>
@@ -144,9 +182,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="38" />
-    <option name="y" value="155" />
-    <option name="width" value="986" />
+    <option name="x" value="41" />
+    <option name="y" value="23" />
+    <option name="width" value="983" />
     <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,24 +226,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="games" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignmentOODP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignmentOODP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="games" type="462c0819:PsiDirectoryNode" />
-              <item name="gameimpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="assignmentOODP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="assignmentOODP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="guesstheword" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignmentOODP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignmentOODP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="UI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="assignmentOODP" type="b2602c69:ProjectViewProjectNode" />
@@ -222,6 +251,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
@@ -285,12 +315,20 @@
       <workItem from="1566981066727" duration="6792000" />
       <workItem from="1566988991721" duration="21681000" />
       <workItem from="1567321210995" duration="889000" />
-      <workItem from="1567336686821" duration="4931000" />
+      <workItem from="1567336686821" duration="6721000" />
     </task>
+    <task id="LOCAL-00001" summary="impliment word class">
+      <created>1567341923207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567341923207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34293000" />
+    <option name="totallyTimeSpent" value="36083000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -305,7 +343,7 @@
     <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25815368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25815368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -315,7 +353,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960325" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32925585" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2293578" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2293578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960325" />
@@ -340,33 +378,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="impliment word class" />
+    <option name="LAST_COMMIT_MESSAGE" value="impliment word class" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/games/gameimpl/GameOverException.java</url>
           <line>4</line>
@@ -490,16 +508,6 @@ System.out.println(text);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/levels/LevelFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -549,16 +557,6 @@ System.out.println(text);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/levels/levelimpl/GuessTheWordlevelOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -573,10 +571,32 @@ System.out.println(text);</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UI/CommandLineInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="63" lean-forward="true" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UI/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/Word.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="600">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
           <folding>
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#477#478#0" expanded="true" />
@@ -584,10 +604,30 @@ System.out.println(text);</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gameutils/guesstheword/RunLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="93" selection-start-line="93" selection-end-line="105" />
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/games/gameimpl/GuessTheWordGameImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
